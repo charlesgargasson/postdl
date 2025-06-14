@@ -10,7 +10,7 @@ Install
 
 .. code-block:: bash
 
-    pipx install git+https://gitlab.com/charles.gargasson/PostDL.git@main
+    pipx install git+https://github.com/charlesgargasson/postdl.git@main
     # pipx uninstall postdl
     # pipx upgrade postdl
 
